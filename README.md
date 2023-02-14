@@ -1,5 +1,6 @@
-## Overview of the Code Analysis Process
+This cheat sheet outlines tips for reversing malicious Windows executables via static and dynamic code analysis with the help of a debugger and a disassembler. 
 
+## Overview of the Code Analysis Process
 1. Examine static properties of the Windows executable for initial assessment and triage.
 2. Identify strings and API calls that highlight the program's suspicious or malicious capabilities.
 3. Perform automated and manual behavioral analysis to gather additional details.
